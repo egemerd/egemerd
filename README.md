@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hi there, I'm Ege Mert.
+- I am a Unity Game Developer passionate about designing and coding engaging gameplay experiences.
+- I'm a third year digital game design student.
+- I'm currently working on a fast-paced FPS called "Past Face"
+- My Contacts: egemertkarsli@hotmail.com | https://www.linkedin.com/in/ege-mert-karsl%C4%B1-8424aa316/
+- My itchio: https://egemerd.itch.io/
 <!--
 **egemerd/egemerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
